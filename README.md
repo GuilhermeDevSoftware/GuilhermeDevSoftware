@@ -6,7 +6,7 @@ Atualmente, estou cursando Engenharia de Computação, onde venho aprofundando m
 
 ### 💻 Habilidades de Programação
 - **Linguagens:** C, C++, Python
-- **Áreas de Interesse:** Sistemas Embarcados, Inteligência Artificial, Back-End, Ciência de Dados
+- **Áreas de Interesse:** Sistemas Embarcados, Inteligência Artificial, Back-End.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,7 +17,7 @@ Atualmente, estou cursando Engenharia de Computação, onde venho aprofundando m
 </div>
 
 ### 🚀 Planos Profissionais
-Meu objetivo é construir uma carreira sólida nas áreas de sistemas embarcados, análise de dados e machine learning. Estou focado em aprender e desenvolver projetos utilizando tecnologias como TensorFlow, Pandas e Spark.
+Meu objetivo é construir uma carreira sólida nas áreas de sistemas embarcados, análise de dados e machine learning. Estou focado em aprender e desenvolver projetos utilizando tecnologias como Python, para bibliotecas de IA, C para sistemas embarcados e C++ para criar projetos mais performaticos.
 
 ### 📁 Projetos Publicados
 Tenho alguns projetos publicados aqui no GitHub, principalmente em C, C++ e Python, embora também tenha publicações em HTML e CSS básico. Sinta-se à vontade para dar uma olhada, qualquer feedback é bem-vindo!
