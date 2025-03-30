@@ -6,7 +6,7 @@ Atualmente, estou cursando Engenharia de Computação, onde venho aprofundando m
 
 ### 💻 Habilidades de Programação
 - **Linguagens:** C, C++, Python
-- **Áreas de Interesse:** Sistemas Embarcados, Inteligência Artificial, Back-End.
+- **Áreas de Interesse:** Sistemas Embarcados, Inteligência Artificial, Back-End, Ciência de dados.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
