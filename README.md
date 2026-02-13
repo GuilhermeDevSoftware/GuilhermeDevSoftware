@@ -5,8 +5,8 @@
 Atualmente, estou cursando Engenharia de Computação, onde venho aprofundando meus conhecimentos em diversas áreas da tecnologia. Sou apaixonado por programação e desenvolvimento de sistemas, com foco em Python e C/C++.
 
 ### 💻 Habilidades de Programação
-- **Linguagens:** C, C++, Python
-- **Áreas de Interesse:** Sistemas Embarcados, Inteligência Artificial, Back-End, Ciência de dados.
+- **Linguagens:** C, C++, Python, Java
+- **Áreas de Interesse:** Sistemas Embarcados, Inteligência Artificial, Back-End, Ciência de dados, Redes.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
