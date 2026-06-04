@@ -1,30 +1,75 @@
 # Olá, eu sou o Guilherme! 👋
 
-### Estudante de Engenharia de Computação
+### Estudante de Engenharia de Computação | Sistemas Embarcados | C/C++ | Assembly | Python
 
-Atualmente, estou cursando Engenharia de Computação, onde venho aprofundando meus conhecimentos em diversas áreas da tecnologia. Sou apaixonado por programação e desenvolvimento de sistemas, com foco em Python e C/C++.
+Sou estudante de Engenharia de Computação e tenho direcionado meus estudos para **sistemas embarcados, microcontroladores, eletrônica, redes e programação de baixo nível**.
 
-### 💻 Habilidades de Programação
-- **Linguagens:** C, C++, Python, Java
-- **Áreas de Interesse:** Sistemas Embarcados, Inteligência Artificial, Back-End, Ciência de dados, Redes.
+Atualmente, venho desenvolvendo projetos com **ESP32, Arduino, RFID, LCD, comunicação Wi-Fi, estruturas de dados, Assembly 8051 e aplicações em C/C++**, buscando entender tanto o funcionamento do hardware quanto a lógica do software que controla esses sistemas.
+
+---
+
+## 💻 Habilidades e Tecnologias
+
+* **Linguagens:** C, C++, Assembly, Python, Java
+* **Sistemas Embarcados:** ESP32, Arduino, sensores, displays, RFID e módulos de comunicação
+* **Baixo nível:** Assembly 8051, registradores, memória, lógica digital e arquitetura de computadores
+* **Redes e Comunicação:** Wi-Fi com ESP32, Access Point, comunicação entre dispositivos e servidores embarcados
+* **Ferramentas:** Arduino IDE, VS Code, Git/GitHub, Wokwi, Tinkercad e simuladores de eletrônica
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Guilherme-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <img align="center" alt="Guilherme-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />          
+  <img align="center" alt="Guilherme-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Guilherme-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Guilherme-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Guilherme-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="Guilherme-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-### 🚀 Planos Profissionais
-Meu objetivo é construir uma carreira sólida nas áreas de sistemas embarcados, análise de dados e machine learning. Estou focado em aprender e desenvolver projetos utilizando tecnologias como Python, para bibliotecas de IA, C para sistemas embarcados e C++ para criar projetos mais performaticos.
+---
 
-### 📁 Projetos Publicados
-Tenho alguns projetos publicados aqui no GitHub, principalmente em C, C++ e Python, embora também tenha publicações em HTML e CSS básico. Sinta-se à vontade para dar uma olhada, qualquer feedback é bem-vindo!
+## 🚀 Objetivo Profissional
 
-- [Projeto 1: Gerenciador de pessoas em C](https://github.com/GuilhermeDevSoftware/Arvore-Pilha-Fila)
-- [Projeto 2: Cadastro de Restaurantes em Python](https://github.com/GuilhermeDevSoftware/Restaurante-OOP)
-- [Projeto 3: Serviço de Streaming básico com HTML/CSS](https://github.com/GuilhermeDevSoftware/streaming-service)
+Meu objetivo é construir uma carreira voltada para **sistemas embarcados, redes, eletrônica aplicada e desenvolvimento em baixo nível**.
+
+Tenho interesse em projetos que envolvam microcontroladores, comunicação entre dispositivos, automação, controle de hardware e integração entre software e eletrônica.
+
+Busco evoluir constantemente criando projetos práticos, documentando meu aprendizado e fortalecendo minha base em **C, C++, Assembly e Python**.
+
+---
+
+## 📁 Projetos em Destaque
+
+### 🔐 Controle de Acesso com ESP32, RFID, Teclado e Hash
+
+Sistema de controle de acesso utilizando ESP32, RFID, teclado matricial, LCD I2C e armazenamento de senhas com hash SHA-256.
+
+[Gerador-senha-Hash-ESP32](https://github.com/GuilhermeDevSoftware/Gerador-senha-Hash-ESP32)
+
+---
+
+### 🧮 Cálculo de CPF em Assembly
+
+Projeto desenvolvido em Assembly, com foco em lógica de baixo nível, manipulação de registradores e implementação de algoritmo para cálculo/verificação de CPF.
+
+[Calculo_CPF_Assembly](https://github.com/GuilhermeDevSoftware/Calculo_CPF_Assembly)
+
+---
+
+### 📡 ESP32 como Access Point
+
+Projeto utilizando o ESP32 como ponto de acesso Wi-Fi, explorando conceitos de redes, comunicação embarcada e configuração de servidor local.
+
+[ACESS-POINT-ESP32](https://github.com/GuilhermeDevSoftware/ACESS-POINT-ESP32)
+
+---
+
+## 📚 Atualmente estudando
+
+* Sistemas embarcados com ESP32
+* Redes aplicadas a microcontroladores
+* Programação em C/C++
+* Assembly e arquitetura de computadores
+* Protocolos de comunicação
+* FreeRTOS e aplicações multitarefa
 
 ---
 
@@ -44,8 +89,8 @@ Tenho alguns projetos publicados aqui no GitHub, principalmente em C, C++ e Pyth
 
 ---
 
-- **GitHub:** [@GuilhermeDevSoftware](https://github.com/GuilhermeDevSoftware)
+* **GitHub:** [@GuilhermeDevSoftware](https://github.com/GuilhermeDevSoftware)
 
 ---
 
-Obrigado pela visita! Vamos construir algo incrível juntos! 🚀
+Obrigado pela visita! 🚀
