@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Guilherme Costa — Firmware e Sistemas Embarcados</title>
+  <desc id="desc">ESP32, STM32, C/C++, Rust, ESP-IDF e FreeRTOS. Do código à bancada.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#20324a" stroke-width="0.7"/></pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#102238"/></linearGradient>
+    <linearGradient id="trace" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8" stop-opacity="0.12"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0.7"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="278" rx="18" fill="url(#bg)" stroke="#263b53"/>
+  <path d="M816 1H1182Q1199 1 1199 18V262Q1199 279 1182 279H816Z" fill="url(#grid)" opacity="0.55"/>
+  <rect x="52" y="35" width="4" height="18" rx="2" fill="#38bdf8"/>
+  <text x="69" y="49" fill="#8ccbe9" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="13" letter-spacing="2.1">FIRMWARE · HARDWARE · VALIDAÇÃO</text>
+  <text x="52" y="115" fill="#f1f5f9" font-family="Segoe UI,DejaVu Sans,Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="-1.7">Guilherme Costa</text>
+  <text x="54" y="161" fill="#c8d7e8" font-family="Segoe UI,DejaVu Sans,Arial,sans-serif" font-size="24">Sistemas embarcados, do código à bancada.</text>
+  <rect x="52" y="195" width="741" height="43" rx="8" fill="#102338" stroke="#29425b"/>
+  <text x="70" y="222" fill="#7dd3fc" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="17">ESP32   STM32   C/C++   Rust   ESP-IDF   FreeRTOS</text>
+  <g fill="none" stroke="url(#trace)" stroke-width="2">
+    <path d="M826 52H888L930 94H959"/><path d="M850 95H890L922 127H959"/><path d="M820 214H894L936 172H959"/>
+    <path d="M1010 59V25H1154"/><path d="M1042 59V8"/><path d="M1107 94H1144L1178 60H1200"/>
+    <path d="M1107 126H1164L1198 92"/><path d="M1107 158H1136L1180 202H1200"/>
+    <path d="M1074 207V239H1170"/><path d="M1010 207V253H928"/>
+  </g>
+  <g stroke="#5fc7ee" stroke-width="3" stroke-linecap="round" opacity="0.9">
+    <path d="M971 93H955M971 119H955M971 145H955M971 171H955M971 197H955"/>
+    <path d="M1097 93H1113M1097 119H1113M1097 145H1113M1097 171H1113M1097 197H1113"/>
+    <path d="M984 76V60M1010 76V60M1036 76V60M1062 76V60M1088 76V60"/>
+    <path d="M984 210V226M1010 210V226M1036 210V226M1062 210V226M1088 210V226"/>
+  </g>
+  <rect x="970" y="76" width="128" height="134" rx="14" fill="#12263b" stroke="#54bde5" stroke-width="2"/>
+  <rect x="982" y="88" width="104" height="110" rx="8" fill="#0d1c2e" stroke="#2a526d"/>
+  <circle cx="996" cy="102" r="3" fill="#38bdf8"/>
+  <text x="1034" y="150" text-anchor="middle" fill="#d9f3ff" font-family="Consolas,DejaVu Sans Mono,monospace" font-size="28" letter-spacing="1">MCU</text>
+  <path d="M1008 170H1060" stroke="#2a526d" stroke-width="2"/>
+  <g fill="#38bdf8"><circle cx="826" cy="52" r="3"/><circle cx="820" cy="214" r="3"/><circle cx="1154" cy="25" r="3"/><circle cx="1170" cy="239" r="3"/><circle cx="928" cy="253" r="3"/></g>
+</svg>
